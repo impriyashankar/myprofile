@@ -30,7 +30,7 @@ body {
   }
 
   .container {
-    width: 500px;   /* This sets the width */
+    width: 500px;
     margin: 0 auto;
     background: snow;
     border: 1px solid snow;
